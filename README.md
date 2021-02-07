@@ -71,7 +71,7 @@ We deploy these methods to solve the problem:
 Further details about the MP task can be seen in the link below:
 https://courses.grainger.illinois.edu/cs440/fa2019/MPs/mp2/assignment6.html
 
-## MP6
+## MP7
 
 This problem creates RL agent to balance pole.
 
